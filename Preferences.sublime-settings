@@ -28,24 +28,26 @@
 	"color_scheme": "Packages/Seti_UI/Scheme/Seti.tmTheme",
 	"draw_minimap_border": true,
 	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
 	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"Vintageous"
 	],
-	"overlay_scroll_bars": "enabled",
-	"theme": "Seti_orig.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"ensure_newline_at_eof_on_save": true,
 	"margin": 0,
+	"overlay_scroll_bars": "enabled",
 	"rulers":
 	[
-		120
+		80,
+		120,
+		140
 	],
 	"show_encoding": true,
 	"show_line_endings": true,
+	"theme": "Seti_orig.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false
